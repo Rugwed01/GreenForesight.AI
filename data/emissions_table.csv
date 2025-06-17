@@ -1,0 +1,701 @@
+Activity,Option,CO2_kg_per_year,Green_Score
+Meat,No meat,109,94
+Transport,Cycle/Walk,47,90
+Plastic,Frequent,748,43
+Energy,Solar,172,82
+Flights,None,180,95
+Water,Moderate usage,350,70
+Shopping,Minimal / recycled,101,90
+Meat,Daily,1079,26
+Transport,Public Transport,497,60
+Plastic,Moderate,372,58
+Energy,Renewable,106,94
+Flights,None,133,100
+Water,Low usage,171,86
+Shopping,Monthly shopping,513,64
+Meat,Occasionally,498,49
+Transport,Car,1099,24
+Plastic,Frequent,724,32
+Energy,Coal,1188,29
+Flights,1-5/year,901,47
+Water,Low usage,200,83
+Shopping,Fast fashion weekly,926,30
+Meat,Occasionally,545,48
+Transport,Cycle/Walk,48,93
+Plastic,Minimal,142,82
+Energy,Coal,979,28
+Flights,1-5/year,897,48
+Water,High usage,708,37
+Shopping,Minimal / recycled,110,99
+Meat,Occasionally,532,42
+Transport,Public Transport,500,64
+Plastic,Minimal,142,79
+Energy,Coal,1106,31
+Flights,1-5/year,920,44
+Water,Low usage,217,83
+Shopping,Monthly shopping,446,57
+Meat,Daily,977,13
+Transport,Cycle/Walk,44,94
+Plastic,Moderate,387,57
+Energy,Solar,220,84
+Flights,None,90,98
+Water,High usage,687,44
+Shopping,Fast fashion weekly,792,22
+Meat,No meat,90,90
+Transport,Public Transport,617,53
+Plastic,Frequent,629,36
+Energy,Gas,825,48
+Flights,None,200,100
+Water,Moderate usage,343,64
+Shopping,Monthly shopping,525,55
+Meat,No meat,99,90
+Transport,Cycle/Walk,53,98
+Plastic,Moderate,332,62
+Energy,Coal,1125,25
+Flights,1-5/year,1005,38
+Water,Moderate usage,440,66
+Shopping,Fast fashion weekly,801,24
+Meat,No meat,110,83
+Transport,Car,1257,24
+Plastic,Minimal,143,84
+Energy,Gas,670,48
+Flights,>5/year,1961,6
+Water,Moderate usage,377,69
+Shopping,Minimal / recycled,86,90
+Meat,Occasionally,647,43
+Transport,Car,1384,29
+Plastic,Moderate,414,56
+Energy,Coal,1180,34
+Flights,1-5/year,1088,44
+Water,High usage,728,34
+Shopping,Fast fashion weekly,884,24
+Meat,Daily,979,18
+Transport,Public Transport,459,68
+Plastic,Minimal,123,87
+Energy,Renewable,88,96
+Flights,None,360,98
+Water,Moderate usage,361,83
+Shopping,Minimal / recycled,100,85
+Meat,Occasionally,556,49
+Transport,Car,940,21
+Plastic,Moderate,449,55
+Energy,Solar,183,90
+Flights,>5/year,2126,1
+Water,Low usage,196,82
+Shopping,Minimal / recycled,95,77
+Meat,Occasionally,516,55
+Transport,Cycle/Walk,46,94
+Plastic,Minimal,142,89
+Energy,Coal,1000,35
+Flights,None,2700,97
+Water,Moderate usage,340,74
+Shopping,Minimal / recycled,110,90
+Meat,No meat,96,87
+Transport,Cycle/Walk,51,100
+Plastic,Minimal,161,81
+Energy,Coal,1155,29
+Flights,>5/year,2134,33
+Water,Moderate usage,450,77
+Shopping,Minimal / recycled,92,96
+Meat,Occasionally,618,54
+Transport,Car,1090,34
+Plastic,Frequent,877,35
+Energy,Solar,184,90
+Flights,None,2657,100
+Water,Low usage,187,76
+Shopping,Monthly shopping,440,53
+Meat,No meat,111,92
+Transport,Car,1320,18
+Plastic,Frequent,659,28
+Energy,Renewable,96,97
+Flights,>5/year,2029,6
+Water,High usage,753,40
+Shopping,Minimal / recycled,103,88
+Meat,Occasionally,523,51
+Transport,Public Transport,512,59
+Plastic,Frequent,802,33
+Energy,Gas,688,34
+Flights,>5/year,1801,6
+Water,High usage,569,46
+Shopping,Monthly shopping,459,42
+Meat,Daily,880,16
+Transport,Car,1126,19
+Plastic,Moderate,396,65
+Energy,Renewable,111,97
+Flights,1-5/year,930,42
+Water,Moderate usage,429,76
+Shopping,Fast fashion weekly,976,31
+Meat,Occasionally,646,42
+Transport,Public Transport,464,72
+Plastic,Frequent,723,39
+Energy,Solar,205,82
+Flights,>5/year,1719,6
+Water,Moderate usage,367,75
+Shopping,Fast fashion weekly,876,31
+Meat,Daily,873,26
+Transport,Public Transport,565,59
+Plastic,Moderate,431,66
+Energy,Gas,742,54
+Flights,1-5/year,808,46
+Water,High usage,761,35
+Shopping,Minimal / recycled,95,93
+Meat,Daily,923,18
+Transport,Car,1237,26
+Plastic,Moderate,425,58
+Energy,Solar,229,86
+Flights,None,0,100
+Water,Moderate usage,417,64
+Shopping,Minimal / recycled,95,96
+Meat,No meat,91,86
+Transport,Public Transport,547,75
+Plastic,Moderate,345,71
+Energy,Coal,996,26
+Flights,1-5/year,1009,36
+Water,Low usage,200,82
+Shopping,Monthly shopping,552,51
+Meat,Occasionally,575,50
+Transport,Public Transport,561,64
+Plastic,Minimal,151,94
+Energy,Solar,246,87
+Flights,None,0,98
+Water,Low usage,232,84
+Shopping,Minimal / recycled,104,86
+Meat,No meat,92,92
+Transport,Car,1154,26
+Plastic,Moderate,347,64
+Energy,Solar,207,84
+Flights,>5/year,1983,10
+Water,Low usage,186,91
+Shopping,Minimal / recycled,110,91
+Meat,Occasionally,644,45
+Transport,Car,1305,27
+Plastic,Moderate,448,64
+Energy,Coal,1067,33
+Flights,None,0,97
+Water,Low usage,194,91
+Shopping,Minimal / recycled,100,83
+Meat,Occasionally,613,46
+Transport,Car,1244,29
+Plastic,Minimal,171,80
+Energy,Solar,200,84
+Flights,None,0,95
+Water,High usage,661,44
+Shopping,Minimal / recycled,113,93
+Meat,Occasionally,618,42
+Transport,Public Transport,494,64
+Plastic,Moderate,416,57
+Energy,Solar,224,93
+Flights,>5/year,2424,3
+Water,High usage,682,45
+Shopping,Minimal / recycled,111,94
+Meat,Occasionally,660,48
+Transport,Car,1350,28
+Plastic,Moderate,461,55
+Energy,Coal,1014,33
+Flights,1-5/year,1133,39
+Water,Low usage,237,82
+Shopping,Monthly shopping,440,55
+Meat,No meat,108,90
+Transport,Public Transport,476,60
+Plastic,Minimal,142,80
+Energy,Coal,966,30
+Flights,>5/year,1602,4
+Water,Low usage,173,84
+Shopping,Fast fashion weekly,817,26
+Meat,Daily,1052,26
+Transport,Cycle/Walk,49,91
+Plastic,Frequent,729,46
+Energy,Solar,179,90
+Flights,>5/year,2134,14
+Water,Low usage,195,91
+Shopping,Minimal / recycled,96,99
+Meat,No meat,104,86
+Transport,Cycle/Walk,52,96
+Plastic,Frequent,794,33
+Energy,Gas,683,41
+Flights,>5/year,2203,9
+Water,Low usage,215,77
+Shopping,Minimal / recycled,84,88
+Meat,Occasionally,478,53
+Transport,Cycle/Walk,55,96
+Plastic,Moderate,475,66
+Energy,Solar,196,84
+Flights,>5/year,1993,9
+Water,High usage,609,42
+Shopping,Monthly shopping,506,57
+Meat,Daily,930,20
+Transport,Public Transport,377,62
+Plastic,Minimal,148,80
+Energy,Solar,217,89
+Flights,1-5/year,1012,30
+Water,High usage,660,36
+Shopping,Minimal / recycled,99,97
+Meat,Daily,922,24
+Transport,Cycle/Walk,59,95
+Plastic,Moderate,352,66
+Energy,Gas,768,58
+Flights,>5/year,1802,10
+Water,Moderate usage,334,74
+Shopping,Fast fashion weekly,850,29
+Meat,No meat,106,88
+Transport,Public Transport,503,68
+Plastic,Moderate,406,69
+Energy,Solar,182,86
+Flights,1-5/year,944,38
+Water,High usage,668,31
+Shopping,Minimal / recycled,106,88
+Meat,Daily,1280,24
+Transport,Public Transport,489,77
+Plastic,Frequent,660,27
+Energy,Gas,643,52
+Flights,>5/year,2420,15
+Water,Moderate usage,379,68
+Shopping,Monthly shopping,514,49
+Meat,Occasionally,598,49
+Transport,Public Transport,548,62
+Plastic,Minimal,153,73
+Energy,Renewable,90,91
+Flights,1-5/year,1081,28
+Water,High usage,682,38
+Shopping,Monthly shopping,461,61
+Meat,Occasionally,675,47
+Transport,Cycle/Walk,49,93
+Plastic,Minimal,147,79
+Energy,Coal,1062,34
+Flights,>5/year,1695,1
+Water,Low usage,226,80
+Shopping,Monthly shopping,529,52
+Meat,Occasionally,554,58
+Transport,Car,1279,29
+Plastic,Frequent,809,37
+Energy,Coal,1043,29
+Flights,None,0,100
+Water,Low usage,190,86
+Shopping,Monthly shopping,505,54
+Meat,Occasionally,639,48
+Transport,Cycle/Walk,54,96
+Plastic,Frequent,789,33
+Energy,Solar,215,85
+Flights,>5/year,2134,14
+Water,Moderate usage,395,73
+Shopping,Minimal / recycled,99,96
+Meat,Occasionally,676,53
+Transport,Car,1286,33
+Plastic,Minimal,162,89
+Energy,Gas,600,56
+Flights,>5/year,2093,12
+Water,Low usage,185,87
+Shopping,Monthly shopping,443,64
+Meat,No meat,114,86
+Transport,Cycle/Walk,48,100
+Plastic,Frequent,758,32
+Energy,Renewable,96,100
+Flights,>5/year,2288,0
+Water,High usage,674,32
+Shopping,Minimal / recycled,102,100
+Meat,Daily,909,17
+Transport,Public Transport,438,62
+Plastic,Minimal,144,80
+Energy,Gas,746,41
+Flights,>5/year,2141,4
+Water,Low usage,211,83
+Shopping,Minimal / recycled,98,89
+Meat,Occasionally,627,49
+Transport,Public Transport,508,68
+Plastic,Moderate,390,58
+Energy,Coal,1043,36
+Flights,>5/year,1944,13
+Water,Moderate usage,392,73
+Shopping,Monthly shopping,536,60
+Meat,No meat,111,99
+Transport,Cycle/Walk,43,86
+Plastic,Moderate,443,61
+Energy,Solar,211,97
+Flights,>5/year,2200,11
+Water,Moderate usage,354,70
+Shopping,Monthly shopping,409,53
+Meat,Daily,914,30
+Transport,Cycle/Walk,51,98
+Plastic,Frequent,827,32
+Energy,Coal,860,28
+Flights,>5/year,1761,10
+Water,Moderate usage,375,67
+Shopping,Monthly shopping,503,58
+Meat,No meat,103,91
+Transport,Public Transport,441,59
+Plastic,Moderate,452,63
+Energy,Solar,190,87
+Flights,1-5/year,862,34
+Water,High usage,625,40
+Shopping,Minimal / recycled,106,84
+Meat,Daily,810,22
+Transport,Cycle/Walk,47,100
+Plastic,Frequent,755,32
+Energy,Solar,199,86
+Flights,>5/year,2255,8
+Water,Low usage,187,76
+Shopping,Minimal / recycled,101,89
+Meat,No meat,105,86
+Transport,Public Transport,429,61
+Plastic,Minimal,169,90
+Energy,Gas,792,49
+Flights,1-5/year,984,41
+Water,Moderate usage,405,76
+Shopping,Monthly shopping,522,53
+Meat,Occasionally,590,54
+Transport,Car,978,17
+Plastic,Minimal,175,81
+Energy,Coal,1042,31
+Flights,1-5/year,953,37
+Water,Low usage,225,87
+Shopping,Fast fashion weekly,751,31
+Meat,Occasionally,601,55
+Transport,Car,1119,22
+Plastic,Moderate,382,54
+Energy,Renewable,104,100
+Flights,None,0,97
+Water,High usage,723,35
+Shopping,Monthly shopping,421,54
+Meat,Daily,911,22
+Transport,Cycle/Walk,52,99
+Plastic,Minimal,149,87
+Energy,Solar,226,80
+Flights,1-5/year,882,44
+Water,Low usage,203,90
+Shopping,Fast fashion weekly,747,33
+Meat,Occasionally,623,53
+Transport,Public Transport,523,70
+Plastic,Moderate,357,67
+Energy,Solar,203,83
+Flights,>5/year,2135,0
+Water,Moderate usage,418,72
+Shopping,Fast fashion weekly,747,34
+Meat,Occasionally,574,50
+Transport,Car,1233,15
+Plastic,Moderate,434,63
+Energy,Gas,792,56
+Flights,>5/year,1861,12
+Water,High usage,655,41
+Shopping,Minimal / recycled,96,91
+Meat,No meat,100,86
+Transport,Public Transport,550,57
+Plastic,Frequent,774,30
+Energy,Gas,709,44
+Flights,1-5/year,1119,39
+Water,Moderate usage,327,70
+Shopping,Monthly shopping,452,56
+Meat,Daily,1121,22
+Transport,Public Transport,464,65
+Plastic,Frequent,639,37
+Energy,Renewable,89,88
+Flights,None,0,100
+Water,Moderate usage,397,66
+Shopping,Monthly shopping,576,51
+Meat,No meat,93,92
+Transport,Public Transport,515,66
+Plastic,Frequent,700,39
+Energy,Gas,695,52
+Flights,None,0,99
+Water,Moderate usage,382,75
+Shopping,Monthly shopping,497,51
+Meat,No meat,82,93
+Transport,Car,1056,25
+Plastic,Moderate,453,60
+Energy,Renewable,111,91
+Flights,1-5/year,1032,42
+Water,High usage,760,40
+Shopping,Minimal / recycled,104,93
+Meat,Occasionally,641,47
+Transport,Public Transport,523,59
+Plastic,Moderate,424,64
+Energy,Solar,192,79
+Flights,None,0,100
+Water,Low usage,209,81
+Shopping,Fast fashion weekly,955,22
+Meat,No meat,108,86
+Transport,Car,1084,21
+Plastic,Frequent,690,36
+Energy,Gas,568,46
+Flights,>5/year,1921,13
+Water,High usage,782,39
+Shopping,Minimal / recycled,110,82
+Meat,Occasionally,594,44
+Transport,Public Transport,438,63
+Plastic,Frequent,758,37
+Energy,Coal,907,33
+Flights,None,0,99
+Water,Low usage,226,83
+Shopping,Fast fashion weekly,1047,30
+Meat,Occasionally,731,52
+Transport,Car,1245,20
+Plastic,Moderate,550,57
+Energy,Solar,203,93
+Flights,1-5/year,1026,34
+Water,High usage,634,43
+Shopping,Minimal / recycled,97,93
+Meat,No meat,107,86
+Transport,Car,1297,23
+Plastic,Moderate,406,60
+Energy,Gas,586,50
+Flights,>5/year,1969,12
+Water,Moderate usage,379,66
+Shopping,Monthly shopping,519,64
+Meat,Daily,1071,17
+Transport,Public Transport,540,66
+Plastic,Frequent,796,25
+Energy,Renewable,92,95
+Flights,1-5/year,1008,31
+Water,High usage,769,39
+Shopping,Fast fashion weekly,843,29
+Meat,No meat,98,92
+Transport,Car,1048,29
+Plastic,Minimal,160,70
+Energy,Renewable,103,94
+Flights,None,0,93
+Water,Moderate usage,427,64
+Shopping,Minimal / recycled,95,92
+Meat,Occasionally,589,56
+Transport,Cycle/Walk,51,94
+Plastic,Moderate,401,65
+Energy,Solar,169,85
+Flights,None,0,100
+Water,High usage,695,42
+Shopping,Monthly shopping,549,49
+Meat,No meat,107,97
+Transport,Car,1347,31
+Plastic,Moderate,378,57
+Energy,Gas,699,53
+Flights,>5/year,2227,3
+Water,Moderate usage,369,83
+Shopping,Monthly shopping,519,50
+Meat,Daily,1109,22
+Transport,Public Transport,561,70
+Plastic,Frequent,791,33
+Energy,Coal,983,29
+Flights,1-5/year,868,43
+Water,Moderate usage,434,75
+Shopping,Monthly shopping,478,48
+Meat,Occasionally,630,56
+Transport,Car,1179,20
+Plastic,Moderate,348,65
+Energy,Gas,753,37
+Flights,1-5/year,1087,40
+Water,Moderate usage,399,70
+Shopping,Fast fashion weekly,960,24
+Meat,Daily,865,25
+Transport,Public Transport,576,65
+Plastic,Moderate,290,67
+Energy,Gas,710,45
+Flights,>5/year,1855,9
+Water,Low usage,187,83
+Shopping,Fast fashion weekly,893,25
+Meat,Occasionally,554,44
+Transport,Cycle/Walk,56,97
+Plastic,Frequent,781,42
+Energy,Solar,164,87
+Flights,>5/year,1523,7
+Water,Moderate usage,395,62
+Shopping,Monthly shopping,515,59
+Meat,No meat,79,89
+Transport,Cycle/Walk,57,95
+Plastic,Frequent,697,34
+Energy,Gas,733,45
+Flights,1-5/year,902,40
+Water,High usage,631,43
+Shopping,Fast fashion weekly,866,24
+Meat,No meat,105,90
+Transport,Public Transport,553,70
+Plastic,Frequent,831,32
+Energy,Coal,978,30
+Flights,1-5/year,995,45
+Water,Moderate usage,427,68
+Shopping,Minimal / recycled,87,92
+Meat,No meat,122,88
+Transport,Car,1335,29
+Plastic,Minimal,135,77
+Energy,Solar,215,80
+Flights,None,0,100
+Water,Low usage,169,83
+Shopping,Minimal / recycled,102,87
+Meat,Occasionally,627,46
+Transport,Cycle/Walk,54,100
+Plastic,Moderate,474,61
+Energy,Coal,1024,26
+Flights,>5/year,2209,19
+Water,Moderate usage,471,66
+Shopping,Fast fashion weekly,909,32
+Meat,Occasionally,623,46
+Transport,Cycle/Walk,50,100
+Plastic,Moderate,377,55
+Energy,Solar,220,97
+Flights,1-5/year,1053,38
+Water,High usage,557,40
+Shopping,Fast fashion weekly,700,33
+Meat,No meat,95,87
+Transport,Public Transport,521,73
+Plastic,Moderate,426,60
+Energy,Renewable,103,94
+Flights,None,0,98
+Water,Moderate usage,388,69
+Shopping,Monthly shopping,478,49
+Meat,Occasionally,569,50
+Transport,Car,1423,21
+Plastic,Minimal,162,79
+Energy,Gas,788,47
+Flights,None,0,88
+Water,Moderate usage,329,74
+Shopping,Fast fashion weekly,835,18
+Meat,Daily,1080,20
+Transport,Car,1101,30
+Plastic,Minimal,133,79
+Energy,Gas,657,49
+Flights,None,0,100
+Water,Low usage,185,80
+Shopping,Monthly shopping,536,44
+Meat,Occasionally,658,46
+Transport,Cycle/Walk,51,91
+Plastic,Frequent,841,27
+Energy,Coal,1029,21
+Flights,1-5/year,899,37
+Water,High usage,769,36
+Shopping,Minimal / recycled,102,100
+Meat,Occasionally,649,44
+Transport,Public Transport,461,63
+Plastic,Minimal,158,84
+Energy,Gas,653,56
+Flights,>5/year,2208,13
+Water,Low usage,204,91
+Shopping,Fast fashion weekly,995,27
+Meat,No meat,105,86
+Transport,Car,1232,21
+Plastic,Minimal,162,85
+Energy,Solar,191,84
+Flights,1-5/year,1006,30
+Water,Low usage,198,87
+Shopping,Minimal / recycled,74,87
+Meat,No meat,105,90
+Transport,Car,1127,22
+Plastic,Moderate,425,65
+Energy,Solar,211,96
+Flights,1-5/year,1214,44
+Water,High usage,623,44
+Shopping,Fast fashion weekly,841,27
+Meat,No meat,101,89
+Transport,Car,1316,22
+Plastic,Moderate,460,65
+Energy,Gas,681,46
+Flights,1-5/year,843,43
+Water,High usage,667,33
+Shopping,Fast fashion weekly,878,31
+Meat,Occasionally,691,52
+Transport,Car,1118,31
+Plastic,Frequent,735,34
+Energy,Gas,826,54
+Flights,None,0,100
+Water,Moderate usage,440,69
+Shopping,Monthly shopping,488,49
+Meat,No meat,95,92
+Transport,Car,1337,14
+Plastic,Minimal,119,80
+Energy,Solar,172,84
+Flights,>5/year,1990,10
+Water,High usage,791,40
+Shopping,Monthly shopping,451,59
+Meat,Occasionally,633,53
+Transport,Public Transport,509,64
+Plastic,Minimal,157,92
+Energy,Coal,1080,35
+Flights,1-5/year,1011,46
+Water,Moderate usage,411,63
+Shopping,Fast fashion weekly,740,33
+Meat,Daily,933,16
+Transport,Public Transport,431,62
+Plastic,Frequent,857,34
+Energy,Renewable,77,91
+Flights,>5/year,1787,10
+Water,Low usage,187,91
+Shopping,Fast fashion weekly,872,28
+Meat,Daily,846,16
+Transport,Car,985,28
+Plastic,Moderate,423,67
+Energy,Coal,1024,34
+Flights,>5/year,1975,6
+Water,Moderate usage,359,65
+Shopping,Fast fashion weekly,677,32
+Meat,Daily,964,28
+Transport,Car,1209,15
+Plastic,Frequent,794,28
+Energy,Renewable,112,98
+Flights,>5/year,2117,9
+Water,Low usage,204,87
+Shopping,Fast fashion weekly,835,21
+Meat,Occasionally,619,56
+Transport,Cycle/Walk,42,93
+Plastic,Moderate,368,59
+Energy,Solar,167,94
+Flights,None,0,95
+Water,Low usage,215,84
+Shopping,Monthly shopping,448,53
+Meat,Occasionally,437,46
+Transport,Car,1191,19
+Plastic,Minimal,151,83
+Energy,Renewable,89,94
+Flights,1-5/year,1050,31
+Water,Moderate usage,447,74
+Shopping,Fast fashion weekly,815,26
+Meat,Occasionally,612,49
+Transport,Car,1150,19
+Plastic,Frequent,830,36
+Energy,Coal,855,25
+Flights,1-5/year,900,40
+Water,Low usage,187,79
+Shopping,Minimal / recycled,88,96
+Meat,Daily,871,25
+Transport,Cycle/Walk,45,92
+Plastic,Minimal,178,80
+Energy,Coal,870,29
+Flights,None,0,100
+Water,Low usage,215,81
+Shopping,Monthly shopping,407,59
+Meat,No meat,107,87
+Transport,Public Transport,477,71
+Plastic,Frequent,957,34
+Energy,Coal,883,22
+Flights,1-5/year,858,33
+Water,Moderate usage,384,68
+Shopping,Minimal / recycled,96,93
+Meat,Daily,1042,24
+Transport,Car,1109,20
+Plastic,Minimal,187,88
+Energy,Gas,688,50
+Flights,None,0,100
+Water,Moderate usage,408,71
+Shopping,Minimal / recycled,96,98
+Meat,Occasionally,735,54
+Transport,Car,1240,23
+Plastic,Frequent,939,31
+Energy,Solar,222,89
+Flights,1-5/year,1023,38
+Water,High usage,764,41
+Shopping,Fast fashion weekly,751,30
+Meat,Occasionally,603,45
+Transport,Cycle/Walk,49,95
+Plastic,Frequent,789,35
+Energy,Renewable,102,100
+Flights,1-5/year,911,43
+Water,Low usage,204,82
+Shopping,Monthly shopping,530,57
+Meat,No meat,109,99
+Transport,Car,1283,20
+Plastic,Moderate,358,63
+Energy,Renewable,93,92
+Flights,None,0,95
+Water,Low usage,176,78
+Shopping,Monthly shopping,492,52
+Meat,Daily,1033,26
+Transport,Cycle/Walk,45,88
+Plastic,Frequent,898,30
+Energy,Solar,208,88
+Flights,1-5/year,947,49
+Water,High usage,727,36
+Shopping,Minimal / recycled,125,91
