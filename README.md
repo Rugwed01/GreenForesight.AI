@@ -30,14 +30,6 @@ _Build empathy, not just awareness._
 
 ---
 
-## 📷 Screenshots
-
-| Lifestyle Input | Climate Story | Future Projections | PDF Export |
-|-----------------|----------------|---------------------|-------------|
-| ![]("C:\Users\rugwe\Downloads\input.png") | ![]("C:\Users\rugwe\Downloads\story.png") | ![]("C:\Users\rugwe\Downloads\graphs.png") | ![]("C:\Users\rugwe\Downloads\green_score.png") |
-
----
-
 ## 🔧 Tech Stack
 
 - **Frontend**: [Streamlit](https://streamlit.io/)
