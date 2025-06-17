@@ -34,7 +34,7 @@ _Build empathy, not just awareness._
 
 | Lifestyle Input | Climate Story | Future Projections | PDF Export |
 |-----------------|----------------|---------------------|-------------|
-| ![](screenshots/input.png) | ![](screenshots/story.png) | ![](screenshots/charts.png) | ![](screenshots/pdf.png) |
+| ![]("C:\Users\rugwe\Downloads\input.png") | ![]("C:\Users\rugwe\Downloads\story.png") | ![]("C:\Users\rugwe\Downloads\graphs.png") | ![]("C:\Users\rugwe\Downloads\green_score.png") |
 
 ---
 
