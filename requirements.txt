@@ -1,25 +1,25 @@
 # Core App
-streamlit>=1.25
-pandas>=1.5
-numpy>=1.23
+streamlit
+pandas
+numpy
 
 # Visualization
-matplotlib>=3.7
-seaborn>=0.12
-Pillow>=9.0
+matplotlib
+seaborn
+Pillow
 
 # PDF Generation
-weasyprint>=60.0
+weasyprint
 
 # AI Storytelling
-cohere>=4.35
+cohere
 
 # Image Generation (Diffusion)
-torch>=2.0
-diffusers>=0.20
-transformers>=4.30
-accelerate>=0.20
-safetensors>=0.3
+torch
+diffusers
+transformers
+accelerate
+safetensors
 
 # For loading .env secrets
-python-dotenv>=1.0
+python-dotenv
